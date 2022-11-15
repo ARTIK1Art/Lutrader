@@ -181,7 +181,7 @@ body {
 		padding-left: 30px;
 		min-width: 18px;
 		min-height: 18px;
-		background: url("/img/icons/globe.png") 0 0 no-repeat;
+		background: url("./img/icons/globe.png") 0 0 no-repeat;
 		@media (max-width: 890px) {
 			padding-left: 0px;
 			span {
@@ -241,25 +241,25 @@ body {
 		// .user-header__link_1
 
 		&_1 {
-			background: url("/img/icons/menu/01.png") 1px center no-repeat;
+			background: url("./img/icons/menu/01.png") 1px center no-repeat;
 		}
 
 		// .user-header__link_2
 
 		&_2 {
-			background: url("/img/icons/menu/02.png") left center no-repeat;
+			background: url("./img/icons/menu/02.png") left center no-repeat;
 		}
 
 		// .user-header__link_3
 
 		&_3 {
-			background: url("/img/icons/menu/03.png") 4px center no-repeat;
+			background: url("./img/icons/menu/03.png") 4px center no-repeat;
 		}
 
 		// .user-header__link_4
 
 		&_4 {
-			background: url("/img/icons/menu/04.png") left center no-repeat;
+			background: url("./img/icons/menu/04.png") left center no-repeat;
 		}
 	}
 }
